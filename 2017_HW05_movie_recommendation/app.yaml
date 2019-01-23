@@ -1,0 +1,5 @@
+entrypoint: y
+env: flex
+runtime: python
+resources: 
+ memory_gb: 2.0
